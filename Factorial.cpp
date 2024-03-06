@@ -1,6 +1,7 @@
 //WAP to print factorial of n number
 //New pull request check
 //Again new pull request
+//Succefully pulled code through git clone :)
 #include <stdio.h>
 int fact(int);
 int main()
